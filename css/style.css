@@ -1,0 +1,185 @@
+
+header{
+	background-color: #f1efef;
+
+}
+
+.navbar-nav .nav-link {
+    margin-left: 15px;
+    background-color: #f1efef;
+    color: black;
+}
+.nav-link:focus, .nav-link:hover {
+    text-decoration: none;
+    background: orange;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.banner{
+	background: url(../images/banner.png);
+	background-size: cover;
+		
+
+	
+}
+.banner-heading h5{
+	text-align: center;
+    color: white;
+    font-size: 35px;
+    margin-top: 262px;
+}
+.banner-heading p{
+	text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.banner-text img{
+	display: block;
+	margin: 0 auto;
+	margin-top: 90px;
+}
+.banner-text h3{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 20px;
+	color: white;
+}
+.banner-text p{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 14px;
+	color: white;
+}
+.navbar-toggler{
+	background-color: gray;
+}
+.button-name{
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 140px;
+	width: 200px;
+	height: 40px;
+	color: #612316;
+	border-radius: 26px;
+	border: 1px solid #612316;
+	margin-top: 17px;
+
+}
+.button-name:hover{
+	color: black;
+	cursor: pointer;
+	background-color: black;
+	border: 1px solid;
+	color: orange;
+}
+
+.galary{
+	background-color:#f1efef;
+}
+.galary-heading h3{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+.text-galary h3{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 23px;
+	color: black;
+}
+.text-galary p{
+    text-align: center;
+	margin-top: 10px;
+	font-size: 14px;
+	color: black;
+}
+.news-letter{
+    background: url(../images/news-img.png);
+	background-size: cover;
+}
+.news-letter h3{
+	text-align: center;
+	margin-top: 80px;
+	font-size: 27px;
+	color: black;
+}
+.news-letter p{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 14px;
+	color: white;
+}
+
+
+.form{
+	position: relative;
+	width: 100%;
+}
+.btn-sign-up{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 24%;
+	border-radius: 25px;
+}
+
+
+.form-control{
+	border-radius: 25px;
+	margin-bottom: 40px;
+}
+.food-text h3{
+	margin-top: 90px;
+}
+.food-text p{
+	margin-top: 20px;
+}
+.food-img{
+	margin-top: 90px;
+}
+.up-btw{
+    margin-left: 0px;
+    display: block;
+    margin-bottom: 140px;
+    height: 40px;
+    color: #f3edeb;
+    border-radius: 26px;
+    border: 1px solid #FF5722;
+    margin-top: 77px;
+    background-color: #FF5722;
+    width: 200px;
+}
+.up-btw:hover{
+	color: black;
+	cursor: pointer;
+	background-color: black;
+	border: 1px solid;
+	color: orange;
+}
+.about-us{
+	background-color:#FF5722;
+	background-size: cover; 
+}
+.text a{
+	text-decoration: none;
+	color: white;
+}
+
+.text ul{list-style: none;
+	margin-bottom: 60px;
+	margin-top: 95px;
+	text-align: center;
+}
+.footer-last{
+	background: url(../images/news-img.png);
+	background-size: cover;
+	
+
+}
+.footer-last p{
+    color: black;
+    margin-top: 100px;
+    text-align: center;
+}
